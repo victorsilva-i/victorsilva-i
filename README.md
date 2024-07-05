@@ -1,5 +1,4 @@
-# Victor Matheus Silva
-
+[![Victor's GitHub Banner](./assets/cover-img.png)](https://victorsilvatecnologia.com.br/)
 **Software Engineer | Full Stack & Blockchain Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/victor-matheus-da-silva-4a927238/?locale=en_US)
